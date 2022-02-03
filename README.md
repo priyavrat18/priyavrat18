@@ -6,7 +6,7 @@
 
 Will soon start #100DaysOfCode probably from 4th Feb 2022.
 
-Vist my **[Portfolio](https://priyavrat18.github.io)
+Vist my [Portfolio](https://priyavrat18.github.io)
 
 <!---
 priyavrat18/priyavrat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
