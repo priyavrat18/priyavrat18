@@ -2,7 +2,7 @@
 
 - 🤩 Software Developer with around 5 years of experience.
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning advanced backend and begginer level frontend.
+- 🌱 I’m currently learning advanced backend and beginner level frontend.
 
 Will soon start #100DaysOfCode probably from 4th Feb 2022.
 
