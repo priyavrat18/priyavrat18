@@ -14,7 +14,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
 </p>
 
-Will soon start #100DaysOfCode probably from 4th Feb 2022.
+Will soon start #100DaysOfCode probably from 1st Jan 2023.
 
 ### 🧑🏻‍💻  Visit my [Portfolio](https://priyavrat18.github.io)
 
