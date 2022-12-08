@@ -1,6 +1,6 @@
 # Hello folks!👋
 
-- 🤩 Software Developer with around 5 years of experience.
+- 🤩 Software Developer with around 6 years of experience.
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning advanced backend and beginner level frontend.
 <p align='left'>
